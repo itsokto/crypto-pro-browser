@@ -78,9 +78,6 @@ import { getUserCertificates, Certificate } from 'crypto-pro-browser';
 - [createDetachedSignature](src/api/createDetachedSignature.ts) - создает отсоединенную (открепленную) подпись сообщения
 - [createXMLSignature](src/api/createXMLSignature.ts) - создает XML подпись для документа в формате XML
 - [createHash](src/api/createHash.ts) - создает хеш сообщения по ГОСТ Р 34.11-2012 256 бит
-- [createSignature](src/api/createSignature.ts) - создает подпись сообщения
-    > Является устаревшим и будет убран из будущих версий.
-    Используйте "createAttachedSignature" и "createDetachedSignature".
 - [getSystemInfo](src/api/getSystemInfo.ts) - возвращает информацию о CSP и плагине
 - [isValidSystemSetup](src/api/isValidSystemSetup.ts) - возвращает флаг корректности настроек ЭП на машине
 - [execute](src/api/execute.ts) - выполняет переданный колбэк, предоставляя доступ к объекту `cadesplugin` и вспомогательным утилитам
