@@ -185,8 +185,8 @@ MIT
 [npm-downloads-image]: https://img.shields.io/npm/dm/crypto-pro-browser.svg?style=flat
 [downloads-url]: https://npmcharts.com/compare/crypto-pro-browser?minimal=true
 [license-image]: https://img.shields.io/npm/l/crypto-pro-browser.svg?style=flat
-[license-url]: https://github.com/itsokto/crypto-pro/blob/master/LICENSE
-[ci-image]: https://github.com/itsokto/crypto-pro/actions/workflows/ci.yml/badge.svg
-[ci-url]: https://github.com/itsokto/crypto-pro/actions/workflows/ci.yml
-[coverage-image]: https://codecov.io/gh/itsokto/crypto-pro/branch/master/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/itsokto/crypto-pro
+[license-url]: https://github.com/itsokto/crypto-pro-browser/blob/master/LICENSE
+[ci-image]: https://github.com/itsokto/crypto-pro-browser/actions/workflows/ci.yml/badge.svg
+[ci-url]: https://github.com/itsokto/crypto-pro-browser/actions/workflows/ci.yml
+[coverage-image]: https://codecov.io/gh/itsokto/crypto-pro-browser/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/itsokto/crypto-pro-browser
