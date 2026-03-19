@@ -1,6 +1,6 @@
 {
   "name": "crypto-pro-browser",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "API для взаимодействия с КриптоПро",
   "main": "./dist/crypto-pro-browser.js",
   "module": "./dist/crypto-pro-browser.mjs",
