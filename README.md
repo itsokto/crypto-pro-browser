@@ -18,7 +18,7 @@
     - [Примеры](#examples)
         - [Тэг script (UMD)](#example-script-tag)
         - [Angular (ES Modules + Typescript)](#example-angular)
-        - [React (ES Modules + JavaScript)](#example-react)
+        - [React (ES Modules + TypeScript)](#example-react)
 - [Тем, кто хочет помочь](#developers)
     - [Запуск режима разработки](#dev-mode)
     - [Запуск тестов](#tests-execution)
@@ -132,7 +132,7 @@ npm run serve
 ```
 
 <a name="example-react"></a>
-### React (ES Modules + JavaScript)
+### React (ES Modules + TypeScript)
 ```bash
 cd examples/react
 npm i
@@ -140,13 +140,13 @@ npm i
 
 Запуск в режиме разработки:
 ```bash
-npm start
+npm run dev
 ```
 
 Запуск в продакшн режиме:
 ```bash
 npm run build
-npm run serve
+npm run preview
 ```
 
 <a name="developers"></a>
@@ -175,10 +175,6 @@ npm run dev
 ```bash
 npm test
 ```
-
-<a name="license"></a>
-# Лицензия
-MIT
 
 [npm-url]: https://npmjs.org/package/crypto-pro-browser
 [npm-version-image]: https://img.shields.io/npm/v/crypto-pro-browser.svg?style=flat
